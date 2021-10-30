@@ -51,7 +51,7 @@ input
 button
 {
     cursor: pointer;
-    border: 1px solid #888888;
+    border: 1px solid #fff;
     background: #888888;
     padding: 8px;
 }
